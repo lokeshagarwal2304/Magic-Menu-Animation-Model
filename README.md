@@ -1,6 +1,7 @@
 # 🌟 Magic Menu Animation Model 🌟
 
 Welcome to the **Magic Menu Animation Model** project! This project provides an interactive and animated **magic menu**, designed to be seamlessly integrated into web applications, bringing a smooth and modern user interface (UI). Enhance your project with a dynamic, visually appealing, and user-friendly experience. ✨
+Hello
 
 ---
 
