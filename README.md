@@ -89,6 +89,6 @@ Steps to contribute:
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or issues, feel free to reach out to me at Lokesh Agarwal[mailto:lokeshagarwal2304@gmail.com]. I'll be happy to help! 😊
+If you have any questions, suggestions, or issues, feel free to reach out to me at *Lokesh Agarwal*[mailto:lokeshagarwal2304@gmail.com]. I'll be happy to help! 😊
 
 ---
